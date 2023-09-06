@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import styles from "./OrderDetails.module.scss";
+import styles from "./Orderdetails.module.scss";
 import { Link, useParams } from "react-router-dom";
 import Loader from "../../loader/Loader";
 import useFetchDocument from "../../../customHooks/useFetchDocument";
